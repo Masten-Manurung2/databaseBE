@@ -1,32 +1,58 @@
 [
-  {
-    "nama": "Chesse Cream Coklat",
-    "harga": 40000,
-    "deskripsi": "Chesse Cream Coklat adalah minuman coklat hangat yang dibuat dengan perpaduan sempurna antara coklat berkualitas tinggi dan kelezatan krim keju. Rasa manisnya dipadukan dengan tekstur lembut dan creamy dari keju yang meleleh di lidah. Cocok dinikmati di hari yang sejuk atau saat ingin memanjakan diri dengan sesuatu yang lezat dan menghangatkan.",
-    "image":"assets/image/creamchessecoklat.jpg"
-  },
-  {
-    "nama": "Tiramisu Chocolate",
-    "harga": 30000,
-    "deskripsi": "Tiramisu Chocolate adalah minuman coklat dingin yang menghadirkan rasa khas tiramisu dengan sentuhan coklat yang kaya. Minuman ini menawarkan keseimbangan antara keasaman kopi dan manisnya coklat, memberikan sensasi menyegarkan di setiap tegukan. Ideal dinikmati saat hari panas atau saat ingin sesuatu yang memanjakan lidah tanpa terlalu manis.",
-    "image":"assets/image/tiramisucoklat.jpg"
-  },
-  {
-    "nama": "Signature Ice Coklat",
-    "harga": 40000,
-    "deskripsi": "Signature Ice Coklat adalah minuman spesial yang menggabungkan cita rasa coklat premium dengan tambahan rasa mint yang menyegarkan. Rasa coklat yang dalam dan intens dipadukan dengan sentuhan segar dari mint, menciptakan sensasi unik yang memuaskan. Cocok untuk pencinta coklat yang ingin merasakan kesegaran berbeda pada minuman coklat.",
-    "image":"assets/image/signatureicecoklate.jpg"
-  },
-  {
-    "nama": "Hazelnut Coklat",
-    "harga": 30000,
-    "deskripsi": "Hazelnut Coklat merupakan minuman creamy yang memadukan rasa coklat lembut dengan sentuhan kacang hazelnut yang khas. Minuman ini memiliki aroma kacang yang harum dengan tekstur creamy, memberikan kenikmatan penuh pada setiap tegukan. Sangat cocok dinikmati kapan saja, baik saat bersantai maupun sebagai pelengkap makanan ringan.",
-    "image":"assets/image/hezelnutcoklat.jpg"
-  },
-  {
-    "nama": "ButterScotch Chocolate",
-    "harga": 30000,
-    "deskripsi": "ButterScotch Chocolate menghadirkan perpaduan unik antara rasa manis butterscotch yang khas dan coklat yang kaya. Minuman ini menawarkan sensasi manis dengan sentuhan karamel ringan, memberikan rasa lembut dan kaya yang memanjakan lidah. Cocok bagi pencinta rasa karamel yang ingin menikmati variasi minuman coklat yang berbeda.",
-    "image":"assets/image/Buttersotch.jpg"
-  }
+    {
+        "nama": "Bank BRI",
+        "nomor": 6299122333224,
+        "pemilik": "Xiaopang",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.JrHVUDYFeJ0svVUXBPXJSAHaEr?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Bank BNI",
+        "nomor": 15000462344376478,
+        "pemilik": "Xiaopang",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.RUjvBZp-ICXJpdPc2HjUzAHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Bank BCA",
+        "nomor": 1500222124367743 ,
+        "pemilik": "Xiaopang",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.BNsBKklA_LJgHk3RikYvoAHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Bank Mandiri",
+        "nomor": 1534843544534345,
+        "pemilik": "Xiaopang",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.cyNsJJt3QfxzneYzqwcHRgHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Dana",
+        "nomor": 6285546878871,
+        "pemilik": "Xiaopang",
+        "jenis": "Ewallet",
+        "url_gambar": "https://th.bing.com/th/id/OIP.x8cJ0W1E1NkmcKHidW2LwQHaCR?w=640&h=197&rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Ovo",
+        "nomor": 6285546878879,
+        "pemilik": "Xiaopang",
+        "jenis": "Ewallet",
+        "url_gambar": "https://th.bing.com/th/id/OIP._VhK_hR_llc58oxMuKRFtgHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Gopay",
+        "nomor": 6285546878873,
+        "pemilik": "Xiaopang",
+        "jenis": "Ewallet",
+        "url_gambar": "https://th.bing.com/th/id/OIP.m-xQNMYA7kSueKShKmQ7OwHaHk?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Shopee Pay",
+        "nomor":  6285546878874,
+        "pemilik": "Xiaopang",
+        "jenis": "Ewallet",
+        "url_gambar": "https://th.bing.com/th/id/OIP.p5o8wC44LoUfw3FyvlghXgHaD4?rs=1&pid=ImgDetMain"
+    }
 ]
