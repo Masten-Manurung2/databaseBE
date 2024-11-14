@@ -31,28 +31,28 @@
         "nama": "Dana",
         "nomor": 12379173912312,
         "pemilik": "MitraSync",
-        "kategori": "Bank",
+        "kategori": "E-Wallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.x8cJ0W1E1NkmcKHidW2LwQHaCR?w=640&h=197&rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Ovo",
         "nomor": 31123134232,
         "pemilik": "MitraSync",
-        "kategori": "Bank",
+        "kategori": "E-Wallet",
         "url_gambar": "https://th.bing.com/th/id/OIP._VhK_hR_llc58oxMuKRFtgHaEK?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Gopay",
         "nomor": 35435435465434,
         "pemilik": "MitraSync",
-        "kategori": "Bank",
+        "kategori": "E-Wallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.m-xQNMYA7kSueKShKmQ7OwHaHk?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Shopee Pay",
         "nomor":  6765745645454,
         "pemilik": "MitraSync",
-        "kategori": "Bank",
+        "kategori": "E-Wallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.p5o8wC44LoUfw3FyvlghXgHaD4?rs=1&pid=ImgDetMain"
     }
 ]
