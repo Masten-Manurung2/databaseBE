@@ -2,56 +2,56 @@
     {
         "nama": "Bank BRI",
         "nomor": 6299122333224,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "kategori": "Bank",
         "url_gambar": "https://th.bing.com/th/id/OIP.JrHVUDYFeJ0svVUXBPXJSAHaEr?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Bank BNI",
         "nomor": 15000462344376478,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "kategori": "Bank",
         "url_gambar": "https://th.bing.com/th/id/OIP.RUjvBZp-ICXJpdPc2HjUzAHaFj?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Bank BCA",
         "nomor": 1500222124367743 ,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "kategori": "Bank",
         "url_gambar": "https://th.bing.com/th/id/OIP.BNsBKklA_LJgHk3RikYvoAHaE8?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Bank Mandiri",
         "nomor": 1534843544534345,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "kategori": "Bank",
         "url_gambar": "https://th.bing.com/th/id/OIP.cyNsJJt3QfxzneYzqwcHRgHaFj?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Dana",
         "nomor": 6285546878871,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "jenis": "Ewallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.x8cJ0W1E1NkmcKHidW2LwQHaCR?w=640&h=197&rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Ovo",
         "nomor": 6285546878879,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "jenis": "Ewallet",
         "url_gambar": "https://th.bing.com/th/id/OIP._VhK_hR_llc58oxMuKRFtgHaEK?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Gopay",
         "nomor": 6285546878873,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "jenis": "Ewallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.m-xQNMYA7kSueKShKmQ7OwHaHk?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Shopee Pay",
         "nomor":  6285546878874,
-        "pemilik": "Xiaopang",
+        "pemilik": "Manurung",
         "jenis": "Ewallet",
         "url_gambar": "https://th.bing.com/th/id/OIP.p5o8wC44LoUfw3FyvlghXgHaD4?rs=1&pid=ImgDetMain"
     }
