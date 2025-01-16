@@ -1,18 +1,5 @@
 [
-    {
-        "nama": "Bank BRI",
-        "nomor": "3242432432422",
-        "pemilik": "MitraSync",
-        "kategori": "Bank",
-        "url_gambar": "https://th.bing.com/th/id/OIP.JrHVUDYFeJ0svVUXBPXJSAHaEr?rs=1&pid=ImgDetMain"
-    },
-    {
-        "nama": "Bank BNI",
-        "nomor": "12379173912312",
-        "pemilik": "MitraSync",
-        "kategori": "Bank",
-        "url_gambar": "https://th.bing.com/th/id/OIP.RUjvBZp-ICXJpdPc2HjUzAHaFj?rs=1&pid=ImgDetMain"
-    },
+    
     {
         "nama": "Bank BCA",
         "nomor": "435434323223" ,
@@ -26,6 +13,20 @@
         "pemilik": "MitraSync",
         "kategori": "Bank",
         "url_gambar": "https://th.bing.com/th/id/OIP.cyNsJJt3QfxzneYzqwcHRgHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Bank BRI",
+        "nomor": "3242432432422",
+        "pemilik": "MitraSync",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.JrHVUDYFeJ0svVUXBPXJSAHaEr?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nama": "Bank BNI",
+        "nomor": "12379173912312",
+        "pemilik": "MitraSync",
+        "kategori": "Bank",
+        "url_gambar": "https://th.bing.com/th/id/OIP.RUjvBZp-ICXJpdPc2HjUzAHaFj?rs=1&pid=ImgDetMain"
     },
     {
         "nama": "Dana",
